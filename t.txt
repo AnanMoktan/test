@@ -5,3 +5,4 @@ make food
 sleep
 eat
 hello
+hi
