@@ -2,3 +2,6 @@ list
 1 make tea 
 2 clean
 make food
+sleep
+eat
+hello
